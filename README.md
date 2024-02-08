@@ -1,5 +1,5 @@
 # React-Portfolio
-E-Commerce-Back-End-ORM
+Personal-Portfolio
 by Victor Samuel
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellowgreen)
 ## Table of contents
@@ -47,7 +47,7 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ## Demo Link
-*https://www.loom.com/share/f745d85a210542e8997cf25e009f83ab?sid=03bda26b-404b-4bd8-9eac-c2ff1cf1cd74*
+*https://www.loom.com/share/804cd4fcf5584718bd06a30a4b208258?sid=3d116e1d-037f-4d97-9611-d41dee9df899*
 ## Built With
 - Postcss: "^8.4.33",
 - Tailwindcss: "^3.4.1",
@@ -70,7 +70,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Deployed Application Link:
 [Deployed Application Link]()
 ## GitHub Repository:
-[GitHub Repository]()
+[GitHub Repository](https://github.com/VictorSamuel-dev/React-Portfolio)
 ## License
       
       Licensed under the MIT license.
