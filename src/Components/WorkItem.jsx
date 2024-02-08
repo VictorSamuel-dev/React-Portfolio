@@ -12,7 +12,7 @@ const WorkItem = ({year, title, duration, details}) => {
             </p>
             <p className='my-2 text-dase font-normal text-stone-500'>{details}</p>
         </li>
-
+        
     </ol>
   );
 };
