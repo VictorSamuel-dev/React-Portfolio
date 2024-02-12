@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
+    "build:tailwind": "tailwindcss -i ./src/index.css -o ./src/output.css",
+    "prebuild": "npm run build:tailwind",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
@@ -15,6 +17,7 @@
     "@emotion/styled": "^11.11.0",
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
+    "@material-tailwind/react": "^2.1.9",
     "@mui/icons-material": "^5.15.7",
     "@mui/material": "^5.15.7",
     "react": "^18.2.0",

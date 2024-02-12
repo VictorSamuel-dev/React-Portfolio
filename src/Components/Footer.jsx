@@ -1,5 +1,5 @@
 import React from 'react'
-// import { Typography } from '@material-tailwind/react'
+import { Typography } from '@material-tailwind/react'
 
 const Footer = () => {
   return (
@@ -11,7 +11,7 @@ const Footer = () => {
           <li>
             <Typography
               as="a"
-              href="#"
+              href="#about"
               color="blue-gray"
               className="font-normal transition-colors hover:text-blue-500 focus:text-blue-500"
             >
@@ -21,38 +21,38 @@ const Footer = () => {
           <li>
             <Typography
               as="a"
-              href="#"
+              href="#work"
               color="blue-gray"
               className="font-normal transition-colors hover:text-blue-500 focus:text-blue-500"
             >
-              License
+              Work
             </Typography>
           </li>
           <li>
             <Typography
               as="a"
-              href="#"
+              href="#portfolio"
               color="blue-gray"
               className="font-normal transition-colors hover:text-blue-500 focus:text-blue-500"
             >
-              Contribute
+              Portfolio
             </Typography>
           </li>
           <li>
             <Typography
               as="a"
-              href="#"
+              href="#contact"
               color="blue-gray"
               className="font-normal transition-colors hover:text-blue-500 focus:text-blue-500"
             >
-              Contact Us
+              Contact
             </Typography>
           </li>
         </ul>
       </div>
       <hr className="my-8 border-blue-gray-50" />
       <Typography color="blue-gray" className="text-center font-normal">
-        &copy; 2023 Material Tailwind
+        &copy; 2023 Victor Samuel
       </Typography>
     </footer>
     </div>
