@@ -75,7 +75,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 * Email - victorsamuel196@gmail.com
 * GitHub - [VictorSamuel-dev](https://github.com/VictorSamuel-dev/)
 ## Deployed Application Link:
-[Deployed Application Link]()
+[Deployed Application Link](https://mellifluous-stardust-a4f219.netlify.app/)
 ## GitHub Repository:
 [GitHub Repository](https://github.com/VictorSamuel-dev/React-Portfolio)
 ## License
