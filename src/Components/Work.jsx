@@ -46,7 +46,7 @@ const Work = () => {
             />
         ))}
     <div>
-       <a href="https://acrobat.adobe.com/id/urn:aaid:sc:us:974781ea-416d-417e-bed0-5dd6225134a6"><button className='bg-[#001b5e] text-gray-100 mt-4 w-full p-4 rounded-lg cursor-pointer-click'>Download Resume</button></a> 
+       <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:0411067b-e014-4c3c-85eb-9092b90afcd9"><button className='bg-[#001b5e] text-gray-100 mt-4 w-full p-4 rounded-lg cursor-pointer-click'>Download Resume</button></a> 
     </div>
     </div>
     
